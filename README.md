@@ -56,9 +56,26 @@ Gameplay footage is available in the repository.
 
 [🎮 Watch Gameplay Video](Gameplay/Gameplay.mp4)
 
-## Download
+## Download & Run
 
 A playable build of the game is included in this repository.
+
+### Steps
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Navigate to the game files:
+   
+   - `Rolling Ball.exe`
+   - `Rolling_Ball_Data`
+
+4. Double-click **Rolling Ball.exe** to launch the game.
+
+### Direct Game File
+
+[▶ Launch Game](./Rolling%20Ball.exe)
+
+> Note: Keep `Rolling Ball.exe` and the `Rolling_Ball_Data` folder in the same directory. Moving or deleting the data folder may prevent the game from running correctly.
 
 ## What I Learned
 
