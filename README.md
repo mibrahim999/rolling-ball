@@ -14,7 +14,7 @@ The game includes 2 levels with increasing difficulty and different obstacle lay
 
 - 3D gameplay environment
 - Multiple playable levels
-- Progressive difficulty system
+- Progressive difficulty levels
 - Increasing ball speed
 - Obstacle avoidance mechanics
 - Restart and fail system
