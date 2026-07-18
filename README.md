@@ -9,7 +9,6 @@ Rolling Ball is a fast-paced 3D game where players control a rolling ball and na
 As the game progresses, the ball's speed gradually increases, making the gameplay more challenging. Falling off the track results in mission failure and requires the player to restart.
 
 The game includes 2 levels with increasing difficulty and different obstacle layouts and they are also interconnected, You must have to finish Both level in first try to complete the game.
-ksduhghfhjkghsdyujidghyhfhgbkhjsadghuyhgbhsdhjgbasdyuh.
 
 ## Features
 
